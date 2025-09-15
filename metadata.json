@@ -1,0 +1,5 @@
+{
+  "name": "Link-to-QR Code Generator",
+  "description": "An elegant, professional QR code generator that allows users to create and customize QR codes for any link. Features include color changes, shape and pattern selection, logo integration, and high-resolution downloads, all within a smooth, Apple-like iOS-style UI.",
+  "requestFramePermissions": []
+}
